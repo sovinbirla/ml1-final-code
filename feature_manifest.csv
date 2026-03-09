@@ -1,0 +1,25 @@
+feature_name,source_table,time_dependency,leak_risk,notes
+end_elo,elo,end-of-season,2,soft-flag pattern; end-of-season summary may encode threshold
+conference_proxy,derived,season-to-date,1,can proxy committee behavior
+abs_elo_diff,elo,pregame,0,none
+abs_pace_diff,team_stats,pregame,0,none
+abs_ppp_diff,team_stats,pregame,0,none
+abs_winpct_diff,games,pregame,0,none
+avg_margin,games,season-to-date,0,none
+conf_winpct,games,season-to-date,0,none
+d_ppp,team_stats,season-to-date,0,none
+elo_diff,elo,pregame,0,none
+fav_won,games,season-to-date,0,none
+home_favored,games,season-to-date,0,none
+is_upset,games,season-to-date,0,none
+last10_winpct,games,season-to-date,0,none
+net_rating,team_stats,season-to-date,0,none
+neutral,games,pregame,0,none
+nonconf_winpct,games,season-to-date,0,none
+o_ppp,team_stats,season-to-date,0,none
+overall_winpct,games,season-to-date,0,none
+pace,team_stats,season-to-date,0,none
+pace_diff,team_stats,pregame,0,none
+ppp_diff,team_stats,pregame,0,none
+sos_proxy,games,season-to-date,0,none
+winpct_diff,games,pregame,0,none

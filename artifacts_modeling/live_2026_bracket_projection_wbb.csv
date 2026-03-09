@@ -1,68 +1,68 @@
-round,seed_a,team_a,seed_b,team_b,p_team_a_win,winner,winner_seed
-First Four,61,Ball State Cardinals,68,Texas A&M Aggies,0.8685885073454046,Ball State Cardinals,61
-First Four,62,Marquette Golden Eagles,67,Miami (Fla.) Hurricanes,0.5670514691916565,Marquette Golden Eagles,62
-First Four,63,Rhode Island Rams,66,Georgia Tech Yellow Jackets,0.9260230470645306,Rhode Island Rams,63
-First Four,64,James Madison Dukes,65,San Diego State Aztecs,0.4143075401773754,San Diego State Aztecs,65
-Round of 64,1,Connecticut Huskies,64,San Diego State Aztecs,0.9241887653191623,Connecticut Huskies,1
-Round of 64,2,South Carolina Gamecocks,63,Rhode Island Rams,0.8886403759293561,South Carolina Gamecocks,2
-Round of 64,3,UCLA Bruins,62,Marquette Golden Eagles,0.9383367933409117,UCLA Bruins,3
-Round of 64,4,Texas Longhorns,61,Ball State Cardinals,0.8593124938005811,Texas Longhorns,4
-Round of 64,5,LSU Tigers,60,BYU Cougars,0.9210464752743289,LSU Tigers,5
-Round of 64,6,Iowa Hawkeyes,59,Florida Gators,0.8806708823593973,Iowa Hawkeyes,6
-Round of 64,7,Duke Blue Devils,58,Fairfield Stags,0.3175307863569627,Fairfield Stags,58
-Round of 64,8,Louisville Cardinals,57,Stanford Cardinal,0.8676630829337602,Louisville Cardinals,8
-Round of 64,9,TCU Lady Frogs,56,Rice Owls,0.6508558322504038,TCU Lady Frogs,9
-Round of 64,10,Michigan Wolverines,55,Seton Hall Pirates,0.8747896576235968,Michigan Wolverines,10
-Round of 64,11,Ohio State Buckeyes,54,Kansas State Wildcats,0.8961855202300716,Ohio State Buckeyes,11
-Round of 64,12,Oklahoma Sooners,53,Kansas Jayhawks,0.7715298082267678,Oklahoma Sooners,12
-Round of 64,13,North Carolina Tar Heels,52,Murray State Racers,0.3316398452597633,Murray State Racers,52
-Round of 64,14,Vanderbilt Commodores,51,Gonzaga Bulldogs,0.8542198056658874,Vanderbilt Commodores,14
-Round of 64,15,Southern California Trojans,50,Utah Utes,0.5455722672441375,Southern California Trojans,15
-Round of 64,16,North Carolina State Wolfpack,49,Mississippi State Lady Bulldogs,0.676951851062947,North Carolina State Wolfpack,16
-Round of 64,17,Maryland Terrapins,48,Virginia Cavaliers,0.661651100859824,Maryland Terrapins,17
-Round of 64,18,Notre Dame Fightin` Irish,47,George Mason Patriots,0.6110106653236856,Notre Dame Fightin` Irish,18
-Round of 64,19,West Virginia Mountaineers,46,Creighton Bluejays,0.8843835882286903,West Virginia Mountaineers,19
-Round of 64,20,Baylor Lady Bears,45,California Golden Bears,0.8490389510072287,Baylor Lady Bears,20
-Round of 64,21,Mississippi Rebels,44,Clemson Lady Tigers,0.5739176974928294,Mississippi Rebels,21
-Round of 64,22,Michigan State Spartans,43,Colorado Buffaloes,0.8242351000594281,Michigan State Spartans,22
-Round of 64,23,Minnesota Golden Gophers,42,Indiana Hoosiers,0.8021205798850884,Minnesota Golden Gophers,23
-Round of 64,24,Kentucky Wildcats,41,Georgia Bulldogs,0.5582070818357583,Kentucky Wildcats,24
-Round of 64,25,Tennessee Lady Volunteers,40,Oregon Ducks,0.4702497451400967,Oregon Ducks,40
-Round of 64,26,Villanova Wildcats,39,Syracuse Orange,0.6037022744965707,Villanova Wildcats,26
-Round of 64,27,Alabama Crimson Tide,38,Texas Tech Lady Raiders,0.3958154509532301,Texas Tech Lady Raiders,38
-Round of 64,28,Princeton Tigers,37,Nebraska Cornhuskers,0.7783082155354055,Princeton Tigers,28
-Round of 64,29,Oklahoma State Cowboys,36,Columbia Lions,0.6416509210659989,Oklahoma State Cowboys,29
-Round of 64,30,Virginia Tech Hokies,35,Washington Huskies,0.560131090836943,Virginia Tech Hokies,30
-Round of 64,31,Illinois Fighting Illini,34,Richmond Spiders,0.3985726731890995,Richmond Spiders,34
-Round of 64,32,Iowa State Cyclones,33,South Dakota State Jackrabbits,0.4962251973470461,South Dakota State Jackrabbits,33
-Round of 32,1,Connecticut Huskies,58,Fairfield Stags,0.8971965034317568,Connecticut Huskies,1
-Round of 32,2,South Carolina Gamecocks,52,Murray State Racers,0.8339579831652225,South Carolina Gamecocks,2
-Round of 32,3,UCLA Bruins,40,Oregon Ducks,0.9321907039671404,UCLA Bruins,3
-Round of 32,4,Texas Longhorns,38,Texas Tech Lady Raiders,0.8527340123537019,Texas Longhorns,4
-Round of 32,5,LSU Tigers,34,Richmond Spiders,0.7377470479339655,LSU Tigers,5
-Round of 32,6,Iowa Hawkeyes,33,South Dakota State Jackrabbits,0.6141586452039892,Iowa Hawkeyes,6
-Round of 32,8,Louisville Cardinals,30,Virginia Tech Hokies,0.7893160963332542,Louisville Cardinals,8
-Round of 32,9,TCU Lady Frogs,29,Oklahoma State Cowboys,0.6383667634545462,TCU Lady Frogs,9
-Round of 32,10,Michigan Wolverines,28,Princeton Tigers,0.5256091623836251,Michigan Wolverines,10
-Round of 32,11,Ohio State Buckeyes,26,Villanova Wildcats,0.5950998602802017,Ohio State Buckeyes,11
-Round of 32,12,Oklahoma Sooners,24,Kentucky Wildcats,0.6205558268879158,Oklahoma Sooners,12
-Round of 32,14,Vanderbilt Commodores,23,Minnesota Golden Gophers,0.7553879384953918,Vanderbilt Commodores,14
-Round of 32,15,Southern California Trojans,22,Michigan State Spartans,0.1735176624931534,Michigan State Spartans,22
-Round of 32,16,North Carolina State Wolfpack,21,Mississippi Rebels,0.5585704936530408,North Carolina State Wolfpack,16
-Round of 32,17,Maryland Terrapins,20,Baylor Lady Bears,0.5621787355790143,Maryland Terrapins,17
-Round of 32,18,Notre Dame Fightin` Irish,19,West Virginia Mountaineers,0.35867747567574854,West Virginia Mountaineers,19
-Sweet 16,1,Connecticut Huskies,22,Michigan State Spartans,0.8688993136035131,Connecticut Huskies,1
-Sweet 16,2,South Carolina Gamecocks,19,West Virginia Mountaineers,0.8625494860613449,South Carolina Gamecocks,2
-Sweet 16,3,UCLA Bruins,17,Maryland Terrapins,0.8749130655028533,UCLA Bruins,3
-Sweet 16,4,Texas Longhorns,16,North Carolina State Wolfpack,0.8750061593793297,Texas Longhorns,4
-Sweet 16,5,LSU Tigers,14,Vanderbilt Commodores,0.5210169974699507,LSU Tigers,5
-Sweet 16,6,Iowa Hawkeyes,12,Oklahoma Sooners,0.6540681718480796,Iowa Hawkeyes,6
-Sweet 16,8,Louisville Cardinals,11,Ohio State Buckeyes,0.5898859669337452,Louisville Cardinals,8
-Sweet 16,9,TCU Lady Frogs,10,Michigan Wolverines,0.5326879863258469,TCU Lady Frogs,9
-Elite 8,1,Connecticut Huskies,9,TCU Lady Frogs,0.833401022504045,Connecticut Huskies,1
-Elite 8,2,South Carolina Gamecocks,8,Louisville Cardinals,0.7799158686398645,South Carolina Gamecocks,2
-Elite 8,3,UCLA Bruins,6,Iowa Hawkeyes,0.8218289290315693,UCLA Bruins,3
-Elite 8,4,Texas Longhorns,5,LSU Tigers,0.5758408037971284,Texas Longhorns,4
-Final 4,1,Connecticut Huskies,4,Texas Longhorns,0.7070616598195777,Connecticut Huskies,1
-Final 4,2,South Carolina Gamecocks,3,UCLA Bruins,0.4779363482096719,UCLA Bruins,3
-Championship,1,Connecticut Huskies,3,UCLA Bruins,0.56796898736138,Connecticut Huskies,1
+round,seed_a,team_a,seed_b,team_b,p_team_a_win,winner,winner_seed,slot_a,slot_b,team_a_elo,team_b_elo
+First Four,61,Ball State Cardinals,68,Texas A&amp;M Aggies,0.8685885073454046,Ball State Cardinals,61,0,1,1692.0,1651.0
+First Four,62,Marquette Golden Eagles,67,Miami (Fla.) Hurricanes,0.5670514691916565,Marquette Golden Eagles,62,2,3,1686.0,1657.0
+First Four,63,Rhode Island Rams,66,Georgia Tech Yellow Jackets,0.9260230470645306,Rhode Island Rams,63,4,5,1675.0,1661.0
+First Four,64,James Madison Dukes,65,San Diego State Aztecs,0.4143075401773754,San Diego State Aztecs,65,6,7,1674.0,1667.0
+Round of 64,1,Connecticut Huskies,64,San Diego State Aztecs,0.9241887653191623,Connecticut Huskies,1,0,1,2506.0,1667.0
+Round of 64,2,South Carolina Gamecocks,63,Rhode Island Rams,0.8886403759293561,South Carolina Gamecocks,2,2,3,2435.0,1675.0
+Round of 64,3,UCLA Bruins,62,Marquette Golden Eagles,0.9383367933409117,UCLA Bruins,3,4,5,2348.0,1686.0
+Round of 64,4,Texas Longhorns,61,Ball State Cardinals,0.8593124938005811,Texas Longhorns,4,6,7,2305.0,1692.0
+Round of 64,5,LSU Tigers,60,BYU Cougars,0.9210464752743289,LSU Tigers,5,8,9,2209.0,1694.0
+Round of 64,6,Iowa Hawkeyes,59,Florida Gators,0.8806708823593973,Iowa Hawkeyes,6,10,11,2118.0,1701.0
+Round of 64,7,Duke Blue Devils,58,Fairfield Stags,0.3175307863569627,Fairfield Stags,58,12,13,2112.0,1704.0
+Round of 64,8,Louisville Cardinals,57,Stanford Cardinal,0.8676630829337602,Louisville Cardinals,8,14,15,2091.0,1708.0
+Round of 64,9,TCU Lady Frogs,56,Rice Owls,0.6508558322504038,TCU Lady Frogs,9,16,17,2084.0,1712.0
+Round of 64,10,Michigan Wolverines,55,Seton Hall Pirates,0.8747896576235968,Michigan Wolverines,10,18,19,2081.0,1717.0
+Round of 64,11,Ohio State Buckeyes,54,Kansas State Wildcats,0.8961855202300716,Ohio State Buckeyes,11,20,21,2081.0,1722.0
+Round of 64,12,Oklahoma Sooners,53,Kansas Jayhawks,0.7715298082267678,Oklahoma Sooners,12,22,23,2065.0,1723.0
+Round of 64,13,North Carolina Tar Heels,52,Murray State Racers,0.3316398452597633,Murray State Racers,52,24,25,2058.0,1729.0
+Round of 64,14,Vanderbilt Commodores,51,Gonzaga Bulldogs,0.8542198056658874,Vanderbilt Commodores,14,26,27,2047.0,1729.0
+Round of 64,15,Southern California Trojans,50,Utah Utes,0.5455722672441375,Southern California Trojans,15,28,29,2043.0,1730.0
+Round of 64,16,North Carolina State Wolfpack,49,Mississippi State Lady Bulldogs,0.676951851062947,North Carolina State Wolfpack,16,30,31,2006.0,1734.0
+Round of 64,17,Maryland Terrapins,48,Virginia Cavaliers,0.661651100859824,Maryland Terrapins,17,32,33,1989.0,1741.0
+Round of 64,18,Notre Dame Fightin` Irish,47,George Mason Patriots,0.6110106653236856,Notre Dame Fightin` Irish,18,34,35,1982.0,1743.0
+Round of 64,19,West Virginia Mountaineers,46,Creighton Bluejays,0.8843835882286903,West Virginia Mountaineers,19,36,37,1980.0,1744.0
+Round of 64,20,Baylor Lady Bears,45,California Golden Bears,0.8490389510072287,Baylor Lady Bears,20,38,39,1978.0,1754.0
+Round of 64,21,Mississippi Rebels,44,Clemson Lady Tigers,0.5739176974928294,Mississippi Rebels,21,40,41,1932.0,1756.0
+Round of 64,22,Michigan State Spartans,43,Colorado Buffaloes,0.8242351000594281,Michigan State Spartans,22,42,43,1928.0,1760.0
+Round of 64,23,Minnesota Golden Gophers,42,Indiana Hoosiers,0.8021205798850884,Minnesota Golden Gophers,23,44,45,1926.0,1761.0
+Round of 64,24,Kentucky Wildcats,41,Georgia Bulldogs,0.5582070818357583,Kentucky Wildcats,24,46,47,1914.0,1774.0
+Round of 64,25,Tennessee Lady Volunteers,40,Oregon Ducks,0.4702497451400967,Oregon Ducks,40,48,49,1909.0,1788.0
+Round of 64,26,Villanova Wildcats,39,Syracuse Orange,0.6037022744965707,Villanova Wildcats,26,50,51,1890.0,1789.0
+Round of 64,27,Alabama Crimson Tide,38,Texas Tech Lady Raiders,0.3958154509532301,Texas Tech Lady Raiders,38,52,53,1883.0,1796.0
+Round of 64,28,Princeton Tigers,37,Nebraska Cornhuskers,0.7783082155354055,Princeton Tigers,28,54,55,1878.0,1802.0
+Round of 64,29,Oklahoma State Cowboys,36,Columbia Lions,0.6416509210659989,Oklahoma State Cowboys,29,56,57,1876.0,1819.0
+Round of 64,30,Virginia Tech Hokies,35,Washington Huskies,0.560131090836943,Virginia Tech Hokies,30,58,59,1856.0,1820.0
+Round of 64,31,Illinois Fighting Illini,34,Richmond Spiders,0.3985726731890995,Richmond Spiders,34,60,61,1854.0,1832.0
+Round of 64,32,Iowa State Cyclones,33,South Dakota State Jackrabbits,0.4962251973470461,South Dakota State Jackrabbits,33,62,63,1847.0,1845.0
+Round of 32,1,Connecticut Huskies,58,Fairfield Stags,0.8971965034317568,Connecticut Huskies,1,0,1,2506.0,1704.0
+Round of 32,2,South Carolina Gamecocks,52,Murray State Racers,0.8339579831652225,South Carolina Gamecocks,2,2,3,2435.0,1729.0
+Round of 32,3,UCLA Bruins,40,Oregon Ducks,0.9321907039671404,UCLA Bruins,3,4,5,2348.0,1788.0
+Round of 32,4,Texas Longhorns,38,Texas Tech Lady Raiders,0.8527340123537019,Texas Longhorns,4,6,7,2305.0,1796.0
+Round of 32,5,LSU Tigers,34,Richmond Spiders,0.7377470479339655,LSU Tigers,5,8,9,2209.0,1832.0
+Round of 32,6,Iowa Hawkeyes,33,South Dakota State Jackrabbits,0.6141586452039892,Iowa Hawkeyes,6,10,11,2118.0,1845.0
+Round of 32,8,Louisville Cardinals,30,Virginia Tech Hokies,0.7893160963332542,Louisville Cardinals,8,12,13,2091.0,1856.0
+Round of 32,9,TCU Lady Frogs,29,Oklahoma State Cowboys,0.6383667634545462,TCU Lady Frogs,9,14,15,2084.0,1876.0
+Round of 32,10,Michigan Wolverines,28,Princeton Tigers,0.5256091623836251,Michigan Wolverines,10,16,17,2081.0,1878.0
+Round of 32,11,Ohio State Buckeyes,26,Villanova Wildcats,0.5950998602802017,Ohio State Buckeyes,11,18,19,2081.0,1890.0
+Round of 32,12,Oklahoma Sooners,24,Kentucky Wildcats,0.6205558268879158,Oklahoma Sooners,12,20,21,2065.0,1914.0
+Round of 32,14,Vanderbilt Commodores,23,Minnesota Golden Gophers,0.7553879384953918,Vanderbilt Commodores,14,22,23,2047.0,1926.0
+Round of 32,15,Southern California Trojans,22,Michigan State Spartans,0.1735176624931534,Michigan State Spartans,22,24,25,2043.0,1928.0
+Round of 32,16,North Carolina State Wolfpack,21,Mississippi Rebels,0.5585704936530408,North Carolina State Wolfpack,16,26,27,2006.0,1932.0
+Round of 32,17,Maryland Terrapins,20,Baylor Lady Bears,0.5621787355790143,Maryland Terrapins,17,28,29,1989.0,1978.0
+Round of 32,18,Notre Dame Fightin` Irish,19,West Virginia Mountaineers,0.35867747567574854,West Virginia Mountaineers,19,30,31,1982.0,1980.0
+Sweet 16,1,Connecticut Huskies,22,Michigan State Spartans,0.8688993136035131,Connecticut Huskies,1,0,1,2506.0,1928.0
+Sweet 16,2,South Carolina Gamecocks,19,West Virginia Mountaineers,0.8625494860613449,South Carolina Gamecocks,2,2,3,2435.0,1980.0
+Sweet 16,3,UCLA Bruins,17,Maryland Terrapins,0.8749130655028533,UCLA Bruins,3,4,5,2348.0,1989.0
+Sweet 16,4,Texas Longhorns,16,North Carolina State Wolfpack,0.8750061593793297,Texas Longhorns,4,6,7,2305.0,2006.0
+Sweet 16,5,LSU Tigers,14,Vanderbilt Commodores,0.5210169974699507,LSU Tigers,5,8,9,2209.0,2047.0
+Sweet 16,6,Iowa Hawkeyes,12,Oklahoma Sooners,0.6540681718480796,Iowa Hawkeyes,6,10,11,2118.0,2065.0
+Sweet 16,8,Louisville Cardinals,11,Ohio State Buckeyes,0.5898859669337452,Louisville Cardinals,8,12,13,2091.0,2081.0
+Sweet 16,9,TCU Lady Frogs,10,Michigan Wolverines,0.5326879863258469,TCU Lady Frogs,9,14,15,2084.0,2081.0
+Elite 8,1,Connecticut Huskies,9,TCU Lady Frogs,0.833401022504045,Connecticut Huskies,1,0,1,2506.0,2084.0
+Elite 8,2,South Carolina Gamecocks,8,Louisville Cardinals,0.7799158686398645,South Carolina Gamecocks,2,2,3,2435.0,2091.0
+Elite 8,3,UCLA Bruins,6,Iowa Hawkeyes,0.8218289290315693,UCLA Bruins,3,4,5,2348.0,2118.0
+Elite 8,4,Texas Longhorns,5,LSU Tigers,0.5758408037971284,Texas Longhorns,4,6,7,2305.0,2209.0
+Final 4,1,Connecticut Huskies,4,Texas Longhorns,0.7070616598195777,Connecticut Huskies,1,0,1,2506.0,2305.0
+Final 4,2,South Carolina Gamecocks,3,UCLA Bruins,0.4779363482096719,UCLA Bruins,3,2,3,2435.0,2348.0
+Championship,1,Connecticut Huskies,3,UCLA Bruins,0.56796898736138,Connecticut Huskies,1,0,1,2506.0,2348.0
