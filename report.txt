@@ -1,0 +1,34 @@
+NCAA Model Bracket Prediction
+
+There are 2 tasks: 
+
+- Selection: top-k 
+
+- Bracket Prediction 
+
+Model Architecture
+
+I focused on Model Architecting whilst using metrics like AUC (Area Under the Curve). i used exisiting models from HuggingFace like SportsBERT which is text-based modeled on sports terminology through natural language. I wanted to use other reduction methods like Mixed Precision and fine-tune methods like LoRA for existing text-2-text models. 
+
+Human annotators can validate our models that would be used to evaluate play by play analysis of the game. We would encode sound bytes from human commentators and applying real-time predictions for basketball enthusiasts to better aid in lowering AUC scores. 
+
+I browsed models on HuggingFace to embed the models to test bracket prediction with reduction methods. 
+
+Core Validation Strategy:
+
+Metrics (AUC)
+
+Features: Winpct, ELO_diff, PPP (Points Per Possession)
+
+Moving forward:
+
+I need more vision data from youtube to better train a EDA assistant. I used SportsMOT to embed the youtube videos of the NCAA bball to better predict skills that we had pretrained from HuggingFace models. 
+
+- Model Catalog: HuggingFace Model Ranking Algorithm
+
+
+Log loss
+
+7.1
+
+11
